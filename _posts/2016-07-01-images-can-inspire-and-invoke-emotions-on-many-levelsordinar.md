@@ -9,8 +9,8 @@ description: >-
   images can hide something special, something new and exciting. The world we
   live in is full of extraordinary colours, textures and meaning. Our world is a
   joy to behold. I only wish is that I could capture it all for you to enjoy.
-datePublished: '2016-07-01T09:38:51.830Z'
-dateModified: '2016-07-01T09:38:27.480Z'
+datePublished: '2016-07-01T09:40:34.829Z'
+dateModified: '2016-07-01T09:38:53.616Z'
 title: ''
 author:
   - name: ''
@@ -31,6 +31,5 @@ Images can inspire and invoke emotions on many levelsOrdinary pictures and image
 
 Capturing images of the ordinary and making them extraordinary
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/835ad33c-3852-4fd1-8a3b-c3e9f2a5400d.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d09721f-3a1e-434c-b44d-574fcadd1620.jpg)
 
 Inspirational Creative Art combining photographic images and 3D graphics for media and advetising. Bespoke creations for you, for your imagination
