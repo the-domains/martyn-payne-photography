@@ -1,6 +1,6 @@
 name: Martyn Payne Photography
 favicon: null
-layout_spectrum: 0.32437002565711737
+layout_spectrum: 1
 typography_spectrum: 0.15608527325093746
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-  brandStrength: 0.2504651597701013
+  brandStrength: 0.25
   lightness: 0.7964231104124337
   saturation: 0.47166453767567873
-  rhythmicContrast: 0.32875392120331526
+  rhythmicContrast: 0.25
 purpose: []
